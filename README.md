@@ -1,6 +1,6 @@
 # 👩‍💻 Nguyễn Duy Kiên 
-**Data Analyst | Data Science**  
-📍 Hanoi, Vietnam | 📧 kiennguyen221100@gmail.com
+**Data Analyst**
+📍 Hanoi, Vietnam | 📧 kiennguyen221100@gmail.com 
 
 ---
 
