@@ -54,9 +54,3 @@ Applying the RFM model built with Python to segment customers and recommend appr
 - **SQL Advanced, Python** (HackerRank)  
 - **Data Coaching 1:1** (Unigap) 
 
----
-
-## 🤝 Let's Connect
-
-💌 kiennguyen221100@gmail.com  
-📂 [My GitHub Projects](https://github.com/kiennguyen210)
