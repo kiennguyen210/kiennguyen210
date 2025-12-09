@@ -1,5 +1,4 @@
-# 👩‍💻 Nguyễn Duy Kiên 
-**Data Analyst**
+# 👩‍💻 **Nguyễn Duy Kiên | Data Analyst**
 
 📍 Hanoi, Vietnam 
 
