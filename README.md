@@ -1,5 +1,5 @@
 # 👩‍💻 Nguyễn Duy Kiên 
-**Data Analyst | FMCG & E-commerce Background**  
+**Data Analyst | Data Science**  
 📍 Hanoi, Vietnam | 📧 kiennguyen221100@gmail.com
 
 ---
