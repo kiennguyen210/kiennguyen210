@@ -54,7 +54,9 @@ Applying the RFM model built with Python to segment customers and recommend appr
 ## 🎓 Education & Certifications
 
 **International Business Administration** – Foreign Trade University
+- **Relevant Social Activities:** President of MC and Fashion Club Gen 12 (2020 - 2021)
 
 **Certifications**  
-- **SQL Advanced, Python** (HackerRank)  
+- **SQL Advanced, Python** (HackerRank)
+- **Equivalent certifications for SQL, PowerBI and Python** (Datacamp)
 
