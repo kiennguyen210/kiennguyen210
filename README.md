@@ -25,7 +25,7 @@ Using PowerBI to give visualizations and insights for Marketing team to optimall
 
 ---
 
-### [Sales Performance & Market Expansion For A Global Superstore | Power BI](https://github.com/nguyenhoangdouyen/Sales-Performance-Market-Expansion-For-A-Global-Superstore-Power-BI)  
+### [Sales Performance & Market Expansion For A Global Superstore | Power BI](https://github.com/kiennguyen210/Power-BI-Sales-Performance-And-Market-Expansion-For-A-Global-Superstore)  
 This project is centered on creating a dynamic business intelligence dashboard to help Superstore, a rapidly growing global retailer, understand its current market position and growth opportunities for market expansion.
 
 ---
