@@ -15,6 +15,11 @@ Graduate of Foreign Trade University (International Business Administration) wit
 
 ## 📊 Featured Projects
 
+### [Measuring Player Retention Through Game Design | Python, Machine Learning](https://github.com/kiennguyen210/Machine-Learning-Measuring-Player-Retention-Through-Game-Design)
+The project performs in-depth data analysis (including exploratory analysis, Chi-square statistical testing, Bootstrapped Confidence Intervals, and logistic regression modeling) on the data from an A/B test.
+
+---
+
 ### [Ecommerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery](https://github.com/kiennguyen210/SQL-Ecommerce-Web-Performance-And-Purchase-Behavior-Analysis)  
 This project uses SQL and BigQuery to analyze the performance of an e-commerce website, focusing on traffic, engagement, and revenue over time.
 
