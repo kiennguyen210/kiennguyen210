@@ -25,7 +25,7 @@ This project uses SQL and BigQuery to analyze the performance of an e-commerce w
 
 ---
 
-### [Marketing Performance Analysis For Marketing Campaign (Retail Company) | Power BI](https://github.com/kiennguyen210/Power-BI-Marketing-Performance-Analysis-For-Marketing-Company)  
+### [Marketing Performance Analysis For Marketing Campaign In A Retail Company | Power BI](https://github.com/kiennguyen210/Power-BI-Marketing-Performance-Analysis-For-Marketing-Company)  
 Using PowerBI to give visualizations and insights for Marketing team to optimally allocate marketing budget across channels, campaigns and regions to maximize Return on Ad Spend (ROAS)
 
 ---
