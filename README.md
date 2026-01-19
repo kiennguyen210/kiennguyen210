@@ -48,8 +48,11 @@ Applying the RFM model built with Python to segment customers and recommend appr
 - **MS Office:** Word, Excel, PowerPoint, Outlook.
 - **Statistics & Analytics:** Hypothesis Testing, A/B Testing.
 - **Machine Learning:** Classification, Clustering.
-- **Mindset:** Business Mindset, Problem Solving, Storytelling, Design Thinking
-- **Languague:** English Proficiency
+
+## 🛠️ Soft Skills
+
+- **Mindset:** Business Mindset, Problem Solving, Storytelling, Design Thinking.
+- **Languague:** English Proficiency.
 
 
 ---
