@@ -44,7 +44,7 @@ Applying the RFM model built with Python to segment customers and recommend appr
 
 - **SQL:** JOIN, CTE, Aggregate & Window Functions.
 - **PowerBI:** Power Query (Dax & M code), Design Report & Dashboard.
-- **Python:** Data manipulation & Data visualization.
+- **Python:** Pandas, Numpy, Matplotlib, Seaborn, Sklearn.
 - **MS Office:** Word, Excel, PowerPoint, Outlook.
 - **Statistics & Analytics:** Hypothesis Testing, A/B Testing.
 - **Machine Learning:** Classification, Clustering.
