@@ -57,6 +57,6 @@ Applying the RFM model built with Python to segment customers and recommend appr
 - **Relevant Social Activities:** President of MC and Fashion Club Gen 12 (2020 - 2021)
 
 **Certifications**  
-- **SQL Advanced, Python** (HackerRank)
-- **Equivalent certifications for SQL, PowerBI and Python** (Datacamp)
+- **Hackerrank**: SQL Advanced , SQL Intermediate , Python.
+- **Datacamp**: Equivalent certifications for SQL, PowerBI, Python & Machine Learning.
 
