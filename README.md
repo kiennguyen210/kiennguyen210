@@ -42,11 +42,14 @@ Applying the RFM model built with Python to segment customers and recommend appr
 
 ## 🛠️ Technical Skills
 
-- **SQL:** Data manipulation.
+- **SQL:** JOIN, CTE, Aggregate & Window Functions.
 - **PowerBI:** Power Query (Dax & M code), Design Report & Dashboard.
 - **Python:** Data manipulation & Data visualization.
 - **MS Office:** Word, Excel, PowerPoint, Outlook.
+- **Statistics & Analytics:** Hypothesis Testing, A/B Testing.
+- **Machine Learning:** Classification, Clustering.
 - **Mindset:** Business Mindset, Problem Solving, Storytelling, Design Thinking
+- **Languague:** English Proficiency
 
 
 ---
