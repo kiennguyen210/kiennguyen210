@@ -8,8 +8,7 @@
 
 ## 👋 About Me
 
-Graduate of Foreign Trade University (International Business Administration) with three years of assistant experience across F&B and Investment Finance domains, fostering a strong business and operational mindset. Actively transitioning into Data Analytics, equipped with proficient skills in SQL, Power BI, Python, and advanced Excel. Seeking a Data Analyst, BI, or data-driven role to deliver measurable business value through optimized, data-driven decision models. 
-
+Graduate of Foreign Trade University (International Business Administration) with three years of assistant experience across F&B and Investment Finance, fostering a strong business and operational mindset. Currently working in Data Analysis and Business Intelligence within the Fintech sector, with 8 months of hands-on experience in data analysis, business reporting, and dashboard development. Proficient in SQL, Power BI, Python, and Advanced Excel, combining strong business acumen with data-driven problem-solving capabilities.
 
 ---
 
